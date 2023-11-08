@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\pripremaZaOcjenskuVjezbu\bin\Debug\pripremaZaOcjenskuVjezbu.exe.config
+C:\Users\ucenik\source\repos\pripremaZaOcjenskuVjezbu\bin\Debug\pripremaZaOcjenskuVjezbu.exe
+C:\Users\ucenik\source\repos\pripremaZaOcjenskuVjezbu\bin\Debug\pripremaZaOcjenskuVjezbu.pdb
+C:\Users\ucenik\source\repos\pripremaZaOcjenskuVjezbu\obj\Debug\pripremaZaOcjenskuVjezbu.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\pripremaZaOcjenskuVjezbu\obj\Debug\pripremaZaOcjenskuVjezbu.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\pripremaZaOcjenskuVjezbu\obj\Debug\pripremaZaOcjenskuVjezbu.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\pripremaZaOcjenskuVjezbu\obj\Debug\pripremaZaOcjenskuVjezbu.exe
+C:\Users\ucenik\source\repos\pripremaZaOcjenskuVjezbu\obj\Debug\pripremaZaOcjenskuVjezbu.pdb
